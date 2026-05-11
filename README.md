@@ -10,6 +10,8 @@ relying on self-reported psychological surveys.
 - **Targeted Buying:** 7.5% of all invoices are single-item checkouts — a key signature of low-friction buying
 - **Impulse Indicator:** 19.62% of transactions matched the refined impulse indicator (Small Quantity + Below-Median Spend + Peak Hour)
 - **Geography:** United Kingdom leads impulse-pattern purchases (75,956 transactions)
+- **Dataset Size:** 392,692 transactions after cleaning (UCI Online Retail, 541,909 raw)
+- **Impulse Threshold:** Below-median basket value (£12.45) as low-deliberation proxy
 
 ## Methodology
 
